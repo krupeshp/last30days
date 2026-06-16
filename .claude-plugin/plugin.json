@@ -1,13 +1,14 @@
 {
   "name": "last30days",
-  "version": "0.1.0",
-  "description": "Research what people actually said about any topic in the last 30 days. Fans out web searches across Reddit, Hacker News, GitHub, X, YouTube, arXiv, and news, then ranks by recency and engagement and writes a cited briefing — all inside Claude, no API keys required.",
+  "version": "3.3.2",
+  "description": "Research any topic across Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket, GitHub, and 5+ more sources. AI agent scores by upvotes, likes, and real money - not editors.",
   "author": {
-    "name": "krupeshp",
-    "email": "karan@exovie.app"
+    "name": "Matt Van Horn",
+    "email": "mvanhorn@gmail.com",
+    "url": "https://github.com/mvanhorn"
   },
-  "homepage": "https://github.com/krupeshp/last30days",
-  "repository": "https://github.com/krupeshp/last30days",
+  "homepage": "https://github.com/mvanhorn/last30days-skill",
+  "repository": "https://github.com/mvanhorn/last30days-skill",
   "license": "MIT",
-  "keywords": ["research", "recency", "reddit", "hacker-news", "github", "arxiv", "youtube", "twitter", "news", "trends", "multi-source", "briefing"]
+  "keywords": ["research", "reddit", "twitter", "youtube", "tiktok", "instagram", "trends", "prompts", "polymarket", "github", "perplexity", "threads", "pinterest", "eli5", "hacker-news"]
 }

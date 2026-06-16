@@ -1,0 +1,36 @@
+{
+  "description": "Curated source defaults for last30days-tech. Edit these lists to tune what the tech briefing pulls from. Used by SKILL.md to populate engine flags.",
+  "default_search": ["reddit", "hackernews", "github", "bluesky", "web"],
+  "subreddits": [
+    "MachineLearning",
+    "LocalLLaMA",
+    "artificial",
+    "ArtificialInteligence",
+    "OpenAI",
+    "ClaudeAI",
+    "singularity",
+    "programming",
+    "datascience",
+    "deeplearning",
+    "StableDiffusion",
+    "MLQuestions",
+    "compsci",
+    "ExperiencedDevs"
+  ],
+  "github_topics": [
+    "llm",
+    "agents",
+    "machine-learning",
+    "ai",
+    "rag",
+    "inference"
+  ],
+  "focus_themes": [
+    "Model & product releases",
+    "Research & papers",
+    "Frameworks, libraries & tooling",
+    "Benchmarks & evals",
+    "Agentic / infra",
+    "Community reaction & debate"
+  ]
+}
