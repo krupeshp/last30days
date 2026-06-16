@@ -12,11 +12,11 @@ keys required.**
 Add this repo as a plugin marketplace, then install the plugin:
 
 ```
-/plugin marketplace add kar2gan/last30days
+/plugin marketplace add krupeshp/last30days
 /plugin install last30days@last30days
 ```
 
-(Replace `kar2gan/last30days` with the actual repo if you fork it.)
+(Replace `krupeshp/last30days` with the actual repo if you fork it.)
 
 ## Use
 

@@ -4,9 +4,9 @@ version: "0.1.0"
 description: "Research what people actually said about any topic in the last 30 days. Fans out web searches across Reddit, Hacker News, GitHub, X, YouTube, arXiv, and news, ranks by recency and engagement, and writes a cited briefing. Use for 'last 30 days', 'what's new with X', 'recent reaction to X', monthly recaps."
 argument-hint: "last30days nvidia earnings reaction | last30days AI agent frameworks | last30days react server components"
 allowed-tools: Bash, Read, Write, WebSearch, WebFetch, AskUserQuestion
-homepage: https://github.com/kar2gan/last30days
-repository: https://github.com/kar2gan/last30days
-author: kar2gan
+homepage: https://github.com/krupeshp/last30days
+repository: https://github.com/krupeshp/last30days
+author: krupeshp
 license: MIT
 user-invocable: true
 ---

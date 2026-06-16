@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "description": "Research what people actually said about any topic in the last 30 days. Fans out web searches across Reddit, Hacker News, GitHub, X, YouTube, arXiv, and news, then ranks by recency and engagement and writes a cited briefing — all inside Claude, no API keys required.",
   "author": {
-    "name": "kar2gan",
+    "name": "krupeshp",
     "email": "karan@exovie.app"
   },
-  "homepage": "https://github.com/kar2gan/last30days",
-  "repository": "https://github.com/kar2gan/last30days",
+  "homepage": "https://github.com/krupeshp/last30days",
+  "repository": "https://github.com/krupeshp/last30days",
   "license": "MIT",
   "keywords": ["research", "recency", "reddit", "hacker-news", "github", "arxiv", "youtube", "twitter", "news", "trends", "multi-source", "briefing"]
 }
