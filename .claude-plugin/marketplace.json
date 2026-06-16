@@ -1,0 +1,24 @@
+{
+  "name": "last30days",
+  "owner": {
+    "name": "kar2gan",
+    "url": "https://github.com/kar2gan"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the Last 30 Days research skill."
+  },
+  "plugins": [
+    {
+      "name": "last30days",
+      "description": "Research what people actually said about any topic in the last 30 days across Reddit, Hacker News, GitHub, X, YouTube, arXiv, and news. Ranks by recency and engagement and writes a cited briefing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "kar2gan",
+        "url": "https://github.com/kar2gan"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/kar2gan/last30days"
+    }
+  ]
+}
